@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zhlyzjiabjw547479106
+- 👋 Hi, I’m @yangdanyang2005.
 - 👀 I’m interested in programing.
 - 🌱 I’m currently learning C/C++ language.
 - 💞️ I’m looking to collaborate on ...
