@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yangdanyang2005.
-- 👀 I’m interested in programing such as C/C++ and Python.
-- 🌱 I’m currently learning MATLAB language.
+- 👀 I’m interested in programing such as C/C++, Python and MATLAB.
+- 🌱 I’m currently learning HTML + CSS + JS.
 - 💞️ I’m looking to collaborate on GIS or CV.
 - 📫 How to reach me ... email: 1524754931@qq.com or yangdanyang@whu.edu.com.
 - 😄 Pronouns: "He" is OK.
