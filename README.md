@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning MATLAB language.
 - 💞️ I’m looking to collaborate on GIS or CV.
 - 📫 How to reach me ... email: 1524754931@qq.com or yangdanyang@whu.edu.com.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: "He" is fine.
+- ⚡ Fun fact: Get up and sleep early every day!
 
 <!---
 yangdanyang2005/烟锁池塘柳 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
