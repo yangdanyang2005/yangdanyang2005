@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning MATLAB language.
 - 💞️ I’m looking to collaborate on GIS or CV.
 - 📫 How to reach me ... email: 1524754931@qq.com or yangdanyang@whu.edu.com.
-- 😄 Pronouns: "He" is fine.
+- 😄 Pronouns: "He" is OK.
 - ⚡ Fun fact: Get up and sleep early every day!
 
 <!---
