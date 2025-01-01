@@ -2,7 +2,7 @@
 - 👀 I’m interested in programing such as C/C++, Python and MATLAB.
 - 🌱 I’m currently learning HTML + CSS + JS.
 - 💞️ I’m looking to collaborate on GIS or CV.
-- 📫 How to reach me ... email: 1524754931@qq.com or yangdanyang@whu.edu.com.
+- 📫 How to reach me ... email: 1524754931@qq.com or yangdanyang@whu.edu.cn.
 - 😄 Pronouns: "He" is OK.
 - ⚡ Fun fact: Get up and sleep early every day!
 - 📑 Personal website: https://yangdanyang2005.github.io
