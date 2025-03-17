@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yangdanyang2005.
 - 👀 I’m interested in Deep Learing, Computer Vision and GIS.
-- 🌱 I’m have learned: Programming Language: C/C++, Python; Data Processing Language: MATLAB; Database: MySQL; Front-end Design: HTML+CSS+JS, Vue; etc.
+- 🌱 I’m have learned: Advanced Mathematics: calculus, linear algebra, probability theory; Programming languages: C/C++, Python; Data processing language: MATLAB; Database: MySQL; Front-end design languages: HTML+CSS+JS, Vue; Data structures and basic algorithms; and so on, with basic knowledge of Deep Learning, Computer Vision and GIS.
 - 💞️ I’m looking to collaborate on CV or GIS.
 - 📫 How to reach me ... email: 1524754931@qq.com or yangdanyang@whu.edu.cn.
 - 😄 Pronouns: "He" is OK.
